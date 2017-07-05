@@ -1,0 +1,17 @@
+style.css
+html, body {
+  margin: 0;
+}
+
+h1, h2, h3 {
+  font-family: Times New Roman, serif;
+  text-transform: lowercase;
+}
+
+p {
+  font-family: Times New Roman, sans-serif; 
+}
+
+#still {
+  font-style: italic;
+}
